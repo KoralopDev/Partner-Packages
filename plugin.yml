@@ -1,0 +1,9 @@
+name: PartnerPackages
+author: Koralop
+main: koralop\partnerpackages\Greek
+api: 5.0.0
+version: 1.0.0
+website: https://github.com/KoralopDev
+permissions:
+  partnerpackage.command:
+    default: true
